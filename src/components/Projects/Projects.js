@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import estacionamento from "../../Assets/Projects/estacionamento.png";
+import santander from "../../Assets/Projects/santander.png";
+import todo from "../../Assets/Projects/todo.png";
+import spiderman from "../../Assets/Projects/spiderman.png";
+import spread from "../../Assets/Projects/spread.png";
+import marvelfight from "../../Assets/Projects/marvel.png";
 
 function Projects() {
   return (
@@ -15,76 +15,73 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          Meus <strong className="purple">Projetos </strong>Recentes
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+        Aqui estão alguns projetos em que trabalhei recentemente.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={spiderman}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Multiverse Spider-Man"
+              description="Aplicação Web onde é possível visualizar todos os trailers, sinópses e outras informações sobre os filmes do 'amigão da vizinhança' criados até 2022. Site com transições, animações e efeitos, através das ferramentas HTML, CSS e JavaScript, algumas das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. E claro, utilizando como tema esse super herói tão querido."
+              ghLink="https://github.com/Davi-Perdigao/Multiverse-SpiderMan"
+              demoLink="https://davi-perdigao.github.io/Multiverse-SpiderMan/index.html"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={marvelfight}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Marvel-Fight"
+              description="Criação de uma interface mostrando a seleção de personagens para um jogo de luta. Para escolher o personagem do Player 1, basta passar o cursor do mouse sobre ele e aparecerá o nome e a imagem do personagem em questão, no lado esquerdo. O Player 2 já foi escolhido automaticamente, ficando do lado direito. O site é responsivo e possui alterações para mobile, ficando mais leve. Também possui autoplay e função mute."
+              ghLink="https://github.com/Davi-Perdigao/Marvel-Fight"
+              demoLink="https://davi-perdigao.github.io/Marvel-Fight/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={todo}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="To-Do List"
+              description="Seja para cumprir as trefas diárias, organizar as compras do mês ou definir as próximas metas no trabalho, ter um aplicativo de “to do” é uma das formas mais eficazes de manter a sua lista de tarefas em ordem. Para quem dispensa papel e caneta, e prefere ter tudo na ponta do dedo (ou do mouse) em qualquer lugar, desenvolvi essa aplicação."
+              ghLink="https://github.com/Davi-Perdigao/Spread_FullStack_Developer/tree/main/Javascript/To%20Do%20List"
+              demoLink="https://davi-perdigao.github.io/Spread_FullStack_Developer/Javascript/To%20Do%20List/"              
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={estacionamento}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Estacionamento"
+              description="Página web na qual é possível adicionar veículos por nome e placa (obrigatoriamente) ao pátio de um estacionamento. Exibe todos os veículos adicionados e suas respectivas informações, além da data de entrada e uma função para removê-los. Quando o veículo for removido, para o estacionamento ter o controle de quanto cobrar do proprietário, exibe-se na tela a informação de quanto tempo aquela veículo permaneceu no estacionamento."
+              ghLink="https://github.com/Davi-Perdigao/Spread_FullStack_Developer/tree/main/Estacionamento"
+              demoLink="https://davi-perdigao.github.io/Spread_FullStack_Developer/Estacionamento/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={spread}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="Bootcamp SPREAD"
+              description="O Bootcamp Spread Fullstack Developer foi um programa de estudos intensivos que participei, para desenvolvedores que querem evoluir em sua jornada de desenvolvimento de software com uma base sólida em tecnologias essenciais de Front-End e Back-End."
+              ghLink="https://github.com/Davi-Perdigao/Spread_FullStack_Developer"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={santander}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Bootcamp SANTANDER"
+              description="O Bootcamp Santander FullStack Developer foi um programa de estudos em desenvolvimento e tecnologias FullStack que participei. O programa apresenta cursos, desafios práticos e mentorias em tecnologias essenciais para Front-End e Back-End."
+              ghLink="https://github.com/Davi-Perdigao/Santander_FullStack_Developer"
             />
           </Col>
         </Row>
