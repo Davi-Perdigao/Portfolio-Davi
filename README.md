@@ -8,11 +8,11 @@
 
 <br/>
 
-<center>
+<div align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 
-</center>
+</div>
 
 ## 🛠 Construído com
 
