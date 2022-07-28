@@ -16,7 +16,7 @@ function ResumeNew() {
         <Row>
 
         <h2 className="project-heading">
-          Download My <strong className="purple">Resume </strong>
+          Baixe meu <strong className="purple">Currículo </strong>
         </h2>
         </Row>
 
