@@ -19,7 +19,7 @@ function Home2() {
               DEIXE EU ME <span className="purple"> APRESENTAR </span>
             </h1>
             <p className="home-about-body">
-              Me apaixonei por programação desenvolvendo um simples projeto de ensino fundamental na escola
+            <b className="purple">Hello, World!</b> Meu nome é <b className="purple">Davi,</b> tenho 20 anos e sou de Divinópolis-MG (Brasil). Me apaixonei por programação desenvolvendo um simples projeto de ensino fundamental na escola.
               <br />
               <br />Algum tempo depois esse projeto cresceu na medida em que aprofundava meus estudos, 
               foi premiado <b className="purple">internacionalmente</b> e a partir desse momento decidi que seguiria na carreira de <b className="purple">programador</b>.

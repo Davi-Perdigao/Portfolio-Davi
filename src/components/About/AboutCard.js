@@ -9,9 +9,10 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hello, World! Meu nome é <span className="purple">Davi Perdigão </span>
-            sou de <span className="purple">Divinópolis-MG (Brasil).</span>
+            e sou de <span className="purple">Divinópolis-MG (Brasil).</span>
             <br />Sou apaixonado por conhecimento e tecnologia. 
-            Atualmente ocupo o cargo de FullStack Developer, com foco em desenvolvimento Web.
+            Atualmente ocupo o cargo de <span className="purple">FullStack Developer</span> na <span className="purple">Alfa Engenharia,</span> com foco em desenvolvimento Web.
+            Me considero uma pessoa inconformada com a zona de conforto, por isso estou sempre atrás de novos desafios.
             <br />
             <br />
             Além da programação, algumas outras atividades que adoro fazer!
