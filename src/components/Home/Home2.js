@@ -23,6 +23,7 @@ function Home2() {
               <br />
               <br />Algum tempo depois esse projeto cresceu na medida em que aprofundava meus estudos, 
               foi premiado <b className="purple">internacionalmente</b> e a partir desse momento decidi que seguiria na carreira de <b className="purple">programador</b>.
+              Desde então, ingressei na faculdade de <b className="purple">Ciências da Computação</b> e atualmente estou no <b className="purple">6º período</b>.
               <br />
               <br />As minhas áreas de interesse são as de construção de novas &nbsp;
               <i>

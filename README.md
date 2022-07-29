@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfólio Website - Davi Perdigão<br/>
-  <!-- <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> -->
+  <a href="https://davi-perdigao.vercel.app/" target="_blank">davi-perdigao.vercel.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
@@ -16,8 +16,7 @@
 
 ## 🛠 Construído com
 
-Projeto baseado no portfólio Open-Source [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
-<!-- Meu portfólio pessoal <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> que apresenta alguns dos meus projetos no github, bem como meu currículo e habilidades técnicas. -->
+Meu portfólio pessoal <a href="https://davi-perdigao.vercel.app/" target="_blank">davi-perdigao.vercel.app</a> que apresenta alguns dos meus projetos no GitHub, bem como meu currículo e habilidades técnicas. 
 
 Esse projeto foi construído utilizando as seguintes tecnologias:
 
