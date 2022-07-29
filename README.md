@@ -3,7 +3,7 @@
   <a href="https://davi-perdigao.vercel.app/" target="_blank">davi-perdigao.vercel.app</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img alt="Demo" src="./Images/readme-img2.png" />
 </div>
 
 <br/>
