@@ -16,6 +16,7 @@
 
 ## 🛠 Construído com
 
+Projeto baseado no portfólio Open-Source [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
 <!-- Meu portfólio pessoal <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> que apresenta alguns dos meus projetos no github, bem como meu currículo e habilidades técnicas. -->
 
 Esse projeto foi construído utilizando as seguintes tecnologias:
