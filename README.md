@@ -35,7 +35,7 @@ Esse projeto foi construído utilizando as seguintes tecnologias:
 
 **📱 Totalmente Responsivo**
 
-## License 📄
+## 📄 License 
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](https://github.com/Davi-Perdigao/Portfolio-Davi/blob/main/LICENSE) para mais detalhes
 
