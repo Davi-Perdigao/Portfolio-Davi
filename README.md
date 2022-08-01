@@ -16,7 +16,7 @@
 
 ## 🛠 Construído com
 
-Meu portfólio pessoal <a href="https://davi-perdigao.vercel.app/" target="_blank">davi-perdigao.vercel.app</a> que apresenta alguns dos meus projetos no GitHub, bem como meu currículo e habilidades técnicas. 
+Meu primeiro projeto de portfólio pessoal <a href="https://davi-perdigao.vercel.app/" target="_blank">davi-perdigao.vercel.app</a>, onde apresento alguns dos meus projetos no GitHub, bem como meu currículo e habilidades técnicas. 
 
 Esse projeto foi construído utilizando as seguintes tecnologias:
 
