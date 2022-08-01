@@ -20,12 +20,12 @@ Meu portfólio pessoal <a href="https://davi-perdigao.vercel.app/" target="_blan
 
 Esse projeto foi construído utilizando as seguintes tecnologias:
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+⚡️ React.js
+⚡️ Node.js
+⚡️ Express.js
+⚡️ CSS3
+⚡️ VsCode
+⚡️ Vercel
 
 ## 📌 Características
 
@@ -34,6 +34,10 @@ Esse projeto foi construído utilizando as seguintes tecnologias:
 **🎨 Estilizado com React-Bootstrap e CSS**
 
 **📱 Totalmente Responsivo**
+
+## License 📄
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes
 
 ### Mostre seu Apoio
 
