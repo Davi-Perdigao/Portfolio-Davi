@@ -29,11 +29,9 @@ Esse projeto foi construído utilizando as seguintes tecnologias:
 
 ## 📌 Características
 
-**📖 Layout de várias páginas**
-
-**🎨 Estilizado com React-Bootstrap e CSS**
-
-**📱 Totalmente Responsivo**
+📖 Layout de várias páginas\
+🎨 Estilizado com React-Bootstrap e CSS\
+📱 Totalmente Responsivo
 
 ## 📄 License 
 
