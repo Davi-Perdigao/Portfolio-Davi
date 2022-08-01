@@ -20,11 +20,11 @@ Meu portfólio pessoal <a href="https://davi-perdigao.vercel.app/" target="_blan
 
 Esse projeto foi construído utilizando as seguintes tecnologias:
 
-⚡️ React.js
-⚡️ Node.js
-⚡️ Express.js
-⚡️ CSS3
-⚡️ VsCode
+⚡️ React.js\
+⚡️ Node.js\
+⚡️ Express.js\
+⚡️ CSS3\
+⚡️ VsCode\
 ⚡️ Vercel
 
 ## 📌 Características
