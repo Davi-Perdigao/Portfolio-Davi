@@ -37,7 +37,7 @@ Esse projeto foi construído utilizando as seguintes tecnologias:
 
 ## License 📄
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](https://github.com/Davi-Perdigao/Portfolio-Davi/blob/main/LICENSE) para mais detalhes
 
 ### Mostre seu Apoio
 
