@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfólio Website - Davi Perdigão<br/>
-  <a href="https://davi-perdigao.vercel.app/" target="_blank">Check out my Porfolio!</a>
+  <a href="https://davi-perdigao.vercel.app/" target="_blank">davi-perdigao.vercel.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img2.png" />
