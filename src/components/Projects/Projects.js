@@ -48,7 +48,7 @@ function Projects() {
               imgPath={mundo_invertido}
               isBlog={false}
               title="Mundo Invertido"
-              description="Criação da interface responsiva de uma página com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase."
+              description="Criação da interface responsiva de uma página inspirada na tão aclamada série Stranger Things, com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase."
               ghLink="https://github.com/Davi-Perdigao/Mundo_Invertido"
               demoLink="https://davi-perdigao.github.io/Mundo_Invertido/"
             />
