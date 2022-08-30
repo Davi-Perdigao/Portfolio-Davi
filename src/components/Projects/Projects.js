@@ -79,7 +79,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={spread}
-              isBlog={true}
+              isBlog={false}
               title="Bootcamp SPREAD"
               description="O Bootcamp Spread Fullstack Developer foi um programa de estudos intensivos que participei, para desenvolvedores que querem evoluir em sua jornada de desenvolvimento de software com uma base sólida em tecnologias essenciais de Front-End e Back-End."
               ghLink="https://github.com/Davi-Perdigao/Spread_FullStack_Developer"
