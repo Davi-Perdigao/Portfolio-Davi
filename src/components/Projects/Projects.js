@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import estacionamento from "../../Assets/Projects/estacionamento.png";
-import santander from "../../Assets/Projects/santander.png";
+import mundo_invertido from "../../Assets/Projects/mundo_invertido.png";
 import todo from "../../Assets/Projects/todo.png";
 import spiderman from "../../Assets/Projects/spiderman.png";
 import spread from "../../Assets/Projects/spread.png";
@@ -45,6 +45,17 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={mundo_invertido}
+              isBlog={false}
+              title="Mundo Invertido"
+              description="Criação da interface responsiva de uma página com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase."
+              ghLink="https://github.com/Davi-Perdigao/Mundo_Invertido"
+              demoLink="https://davi-perdigao.github.io/Mundo_Invertido/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={todo}
               isBlog={false}
               title="To-Do List"
@@ -68,22 +79,12 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={spread}
-              isBlog={false}
+              isBlog={true}
               title="Bootcamp SPREAD"
               description="O Bootcamp Spread Fullstack Developer foi um programa de estudos intensivos que participei, para desenvolvedores que querem evoluir em sua jornada de desenvolvimento de software com uma base sólida em tecnologias essenciais de Front-End e Back-End."
               ghLink="https://github.com/Davi-Perdigao/Spread_FullStack_Developer"
             />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={santander}
-              isBlog={false}
-              title="Bootcamp SANTANDER"
-              description="O Bootcamp Santander FullStack Developer foi um programa de estudos em desenvolvimento e tecnologias FullStack que participei. O programa apresenta cursos, desafios práticos e mentorias em tecnologias essenciais para Front-End e Back-End."
-              ghLink="https://github.com/Davi-Perdigao/Santander_FullStack_Developer"
-            />
-          </Col>
+          </Col> 
         </Row>
       </Container>
     </Container>
