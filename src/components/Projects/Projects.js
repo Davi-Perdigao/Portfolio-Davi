@@ -45,6 +45,17 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={estacionamento}
+              isBlog={false}
+              title="Estacionamento"
+              description="Página web na qual é possível adicionar veículos por nome e placa (obrigatoriamente) ao pátio de um estacionamento. Exibe todos os veículos adicionados e suas respectivas informações, além da data de entrada e uma função para removê-los. Quando o veículo for removido, para o estacionamento ter o controle de quanto cobrar do proprietário, exibe-se na tela a informação de quanto tempo aquela veículo permaneceu no estacionamento."
+              ghLink="https://github.com/Davi-Perdigao/Spread_FullStack_Developer/tree/main/Estacionamento"
+              demoLink="https://davi-perdigao.github.io/Spread_FullStack_Developer/Estacionamento/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={mundo_invertido}
               isBlog={false}
               title="Mundo Invertido"
@@ -62,17 +73,6 @@ function Projects() {
               description="Seja para cumprir as trefas diárias, organizar as compras do mês ou definir as próximas metas no trabalho, ter um aplicativo de “to do” é uma das formas mais eficazes de manter a sua lista de tarefas em ordem. Para quem dispensa papel e caneta, e prefere ter tudo na ponta do dedo (ou do mouse) em qualquer lugar, desenvolvi essa aplicação."
               ghLink="https://github.com/Davi-Perdigao/Spread_FullStack_Developer/tree/main/Javascript/To%20Do%20List"
               demoLink="https://davi-perdigao.github.io/Spread_FullStack_Developer/Javascript/To%20Do%20List/"              
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={estacionamento}
-              isBlog={false}
-              title="Estacionamento"
-              description="Página web na qual é possível adicionar veículos por nome e placa (obrigatoriamente) ao pátio de um estacionamento. Exibe todos os veículos adicionados e suas respectivas informações, além da data de entrada e uma função para removê-los. Quando o veículo for removido, para o estacionamento ter o controle de quanto cobrar do proprietário, exibe-se na tela a informação de quanto tempo aquela veículo permaneceu no estacionamento."
-              ghLink="https://github.com/Davi-Perdigao/Spread_FullStack_Developer/tree/main/Estacionamento"
-              demoLink="https://davi-perdigao.github.io/Spread_FullStack_Developer/Estacionamento/"
             />
           </Col>
 
